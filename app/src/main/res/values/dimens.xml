@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin">30dip</dimen>
+    <dimen name="max_width">100dip</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="tracklistparent_height">64dip</dimen>
+    <dimen name="listview_padding_left">20dp</dimen>
+    <dimen name="listview_firstline_textview_size">14sp</dimen>
+    <dimen name="listview_secondline_textview_size">11sp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:title="@string/settings_pick_player">
+        <com.autopai.music.entry.MusicListPreference
+            android:defaultValue="0"
+            android:entries="@array/pref_entries_player"
+            android:entryValues="@array/pref_entry_values_player"
+            android:key="@string/pref_key_player"
+            android:persistent="true"
+            android:title="@string/pref_title_player" />
+    </PreferenceCategory>
+</PreferenceScreen>
